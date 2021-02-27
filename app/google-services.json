@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "640066238208",
+    "project_id": "mototaxiapp-f677a",
+    "storage_bucket": "mototaxiapp-f677a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640066238208:android:e4ce068addd5994660a5e5",
+        "android_client_info": {
+          "package_name": "com.vinicius.mototaxiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640066238208-li8vp55miu78jhasb9e6odteohvgd1ic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vinicius.mototaxiapp",
+            "certificate_hash": "71a0fd063f1cf95e1e124b1e743f10cb7f1c6263"
+          }
+        },
+        {
+          "client_id": "640066238208-skv2c052snmi8q23muku0fbb78eo4d6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO9GvDU6fKXUsGd_Gj9P4unqjSmiELpqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640066238208-skv2c052snmi8q23muku0fbb78eo4d6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
